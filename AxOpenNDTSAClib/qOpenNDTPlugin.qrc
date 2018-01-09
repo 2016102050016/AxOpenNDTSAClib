@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/CC/qOpenNDTPlugin">
+        <file>Resources/icon.png</file>
+        <file>Resources/qMleSac.png</file>
+        <file>Resources/qMSac.png</file>
+        <file>Resources/qNdtcells.png</file>
+        <file>Resources/qNdtHybridSac.png</file>
+        <file>Resources/qNdtSac.png</file>
+        <file>Resources/qNRGS.png</file>
+        <file>Resources/qoctNdt.png</file>
+        <file>Resources/qRanSac.png</file>
+        <file>Resources/qRGS.png</file>
+        <file>Resources/Iron.png</file>
+    </qresource>
+</RCC>
